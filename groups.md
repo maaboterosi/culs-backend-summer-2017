@@ -1,12 +1,4 @@
-GROUP 1
-  *Andres Botero
-  *Volha Adziarykha
-  *Sheikh Alam
-  *Makina Rahman
-  *...available spot...
-  *...available spot...
-  
-  
+Groups should be there ...
 
 # Group 1
 ## Team members
@@ -18,3 +10,15 @@ GROUP 1
 
 ## Topic
 **TBD**
+
+# Group 2
+## Team members
+* Andres Botero
+* Volha Adziarykha
+* Sheikh Alam
+* Makina Rahman
+* ...available spot...
+* ...available spot...
+
+## Topic
+Geneea: Natural language analysis -- Sentiment Analysis
